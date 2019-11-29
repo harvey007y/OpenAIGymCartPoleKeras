@@ -1,4 +1,4 @@
-# OpenAIGymCartPoleKeras
+# Open AI Gym Cart Pole Keras
 Use Reinforcement Learning and Keras to solve Open AI Gym Cart Pole game
 
 To get started using Open AI Gym with windows, please follow instructions in this link: https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30
